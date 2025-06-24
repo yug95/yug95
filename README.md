@@ -32,8 +32,8 @@ I’m a **Data Science Professional** with **7+ years of experience** in:
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Yogesh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="Yogesh's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yug95&show_icons=true&theme=radical" alt="Yogesh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yug95&theme=radical" alt="Yogesh's GitHub Streak" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ I’m a **Data Science Professional** with **7+ years of experience** in:
 ## 📫 Connect with me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
 - 🐦 [Twitter](https://twitter.com/your-twitter/)
-- ✉️ **Email**: your-email@example.com
+- ✉️ **Email**: yogesh.programmer95@gmail.com
 
 ---
 ### 👏 Thanks for stopping by! Feel free to ⭐️ any of my repos.
