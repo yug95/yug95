@@ -46,8 +46,8 @@ I’m a **Data Science Professional** with **7+ years of experience** in:
 ---
 
 ## 📫 Connect with me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- 🐦 [Twitter](https://twitter.com/your-twitter/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yogesh-agrawal-3a9661a0/)
+- 🐦 [Hugging Face](https://huggingface.co/Yug95)
 - ✉️ **Email**: yogesh.programmer95@gmail.com
 
 ---
