@@ -33,7 +33,7 @@ I’m a **Data Science Professional** with **7+ years of experience** in:
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yug95&show_icons=true&theme=radical" alt="Yogesh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yug95&theme=radical" alt="Yogesh's GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=yug95&theme=radical" alt="Yogesh's GitHub Streak" />
 </p>
 
 ---
